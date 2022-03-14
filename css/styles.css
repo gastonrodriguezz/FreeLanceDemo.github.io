@@ -19,7 +19,6 @@
 html{
     font-size: 62.5%;
     box-sizing: border-box; /* Hack para Box Model */
-    scroll-snap-type: y mandatory;
 }
 *, *:before, *:after {
     box-sizing: inherit;
